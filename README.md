@@ -1,6 +1,6 @@
 ## Olá eu sou o Gustavo Assis, por enquanto, apenas um estudante de programação.
 
-Sou estudante de **Engenharia da Computação** no **CEFET-MG** e atualmente estou no **sétimo período**. Aprendendo a programar aos poucos...
+Sou **brasileiro**, tenho **22 anos** e sou estudante de **Engenharia da Computação** no **CEFET-MG**. Atualmente, estou no **sétimo período** e aprendendo a programar aos poucos...
 
 ## Linguagens que acho que sei:
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -24,6 +24,6 @@ Sou estudante de **Engenharia da Computação** no **CEFET-MG** e atualmente est
 <a href="https://www.linkedin.com/in/gustavo-ax/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ## Fora da programação:
-<p>Gosto de fazer exercícios físicos, leituras e assistir filmes. Para ver algumas reviews minhas:</p>
+Gosto de **fazer exercícios físicos**, **ler** e **assistir filmes**. Para ver algumas reviews minhas:
 
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-07B53B?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/seu-username/)
