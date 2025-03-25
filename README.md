@@ -2,7 +2,7 @@
 
 Sou **brasileiro**, tenho **22 anos** e sou estudante de **Engenharia da Computação** no **CEFET-MG**. Atualmente, estou no **sétimo período** e aprendendo a programar aos poucos...
 
-## Linguagens que acho que sei:
+## Linguagens que já utilizei:
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
