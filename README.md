@@ -26,4 +26,4 @@ Sou **brasileiro**, tenho **22 anos** e sou estudante de **Engenharia da Computa
 ## Fora da programação:
 Gosto de **fazer exercícios físicos**, **ler** e **assistir filmes**. Para ver algumas reviews minhas:
 
-[![Letterboxd](https://img.shields.io/badge/Letterboxd-07B53B?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/seu-username/)
+[![Letterboxd](https://img.shields.io/badge/Letterboxd-07B53B?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/KTRZH/)
