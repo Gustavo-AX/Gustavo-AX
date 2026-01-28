@@ -1,6 +1,6 @@
 ## Olá eu sou o Gustavo Assis, por enquanto, apenas um estudante de programação.
 
-Sou **brasileiro**, tenho **22 anos** e sou estudante de **Engenharia da Computação** no **CEFET-MG**. Atualmente, estou no **sétimo período** e aprendendo a programar aos poucos...
+Sou **brasileiro**, tenho **23 anos** e sou estudante de **Engenharia da Computação** no **CEFET-MG**. Atualmente, estou no **sétimo período** e aprendendo a programar aos poucos...
 
 ## Linguagens que já utilizei:
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
